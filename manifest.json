@@ -20,7 +20,7 @@
   "content_scripts": [
     {
       "js": [
-        "assets/index.tsx-loader-D_XBRisE.js"
+        "assets/index.tsx-loader-DRew_Gqs.js"
       ],
       "matches": [
         "*://*.youtube.com/*"
@@ -39,7 +39,7 @@
       ],
       "resources": [
         "assets/storage-oJWc5ht-.js",
-        "assets/index.tsx-shB2G6ix.js"
+        "assets/index.tsx-H_Gt5BhE.js"
       ],
       "use_dynamic_url": false
     }
