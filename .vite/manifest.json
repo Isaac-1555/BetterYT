@@ -5,9 +5,9 @@
     "src": "../../../../../@crx/manifest",
     "isEntry": true
   },
-  "_index.tsx-loader-JhJM9wBC.js": {
-    "file": "assets/index.tsx-loader-JhJM9wBC.js",
-    "src": "_index.tsx-loader-JhJM9wBC.js"
+  "_index.tsx-loader-B7BvjlZj.js": {
+    "file": "assets/index.tsx-loader-B7BvjlZj.js",
+    "src": "_index.tsx-loader-B7BvjlZj.js"
   },
   "_storage-oJWc5ht-.js": {
     "file": "assets/storage-oJWc5ht-.js",
@@ -32,7 +32,7 @@
     "isEntry": true
   },
   "src/content/index.tsx": {
-    "file": "assets/index.tsx-l5Q8KIuu.js",
+    "file": "assets/index.tsx-nKlu_8bF.js",
     "name": "index.tsx",
     "src": "src/content/index.tsx",
     "isEntry": true,
