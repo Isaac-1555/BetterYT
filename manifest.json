@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "BetterYT",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Integrate user-curated video feeds directly into YouTube's native homepage.",
   "action": {
     "default_popup": "index.html",
