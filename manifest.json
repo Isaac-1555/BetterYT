@@ -27,7 +27,7 @@
   "content_scripts": [
     {
       "js": [
-        "assets/index.tsx-loader-Ct9UbTqU.js"
+        "assets/index.tsx-loader-WkW4lzUu.js"
       ],
       "matches": [
         "*://*.youtube.com/*"
@@ -47,7 +47,7 @@
       "resources": [
         "assets/plus-icon-BzbHtC9O.js",
         "assets/storage-BdOWYOIQ.js",
-        "assets/index.tsx-iIOK0MOw.js"
+        "assets/index.tsx-ClQLzcNy.js"
       ],
       "use_dynamic_url": false
     }
