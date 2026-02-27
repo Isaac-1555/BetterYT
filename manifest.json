@@ -16,7 +16,9 @@
   ],
   "host_permissions": [
     "*://*.youtube.com/*",
-    "https://www.youtube.com/feeds/videos.xml*"
+    "https://www.youtube.com/feeds/videos.xml*",
+    "https://www.googleapis.com/youtube/v3/*",
+    "https://api.openai.com/*"
   ],
   "background": {
     "service_worker": "service-worker-loader.js",
@@ -25,7 +27,7 @@
   "content_scripts": [
     {
       "js": [
-        "assets/index.tsx-loader-B7BvjlZj.js"
+        "assets/index.tsx-loader-Ct9UbTqU.js"
       ],
       "matches": [
         "*://*.youtube.com/*"
@@ -43,8 +45,9 @@
         "*://*.youtube.com/*"
       ],
       "resources": [
-        "assets/storage-oJWc5ht-.js",
-        "assets/index.tsx-nKlu_8bF.js"
+        "assets/plus-icon-BzbHtC9O.js",
+        "assets/storage-BdOWYOIQ.js",
+        "assets/index.tsx-iIOK0MOw.js"
       ],
       "use_dynamic_url": false
     }
